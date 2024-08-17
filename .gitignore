@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+
+# React
+node_modules/
+build/
+
+# Java
+*.class
+*.jar
+target/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+.env
